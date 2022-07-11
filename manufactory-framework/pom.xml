@@ -23,7 +23,7 @@
         </dependency>
         <dependency>
             <groupId>com.timerchina</groupId>
-            <artifactId>toolkit-common</artifactId>
+            <artifactId>toolkit</artifactId>
         </dependency>
     </dependencies>
     <build>

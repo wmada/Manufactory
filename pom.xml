@@ -46,22 +46,12 @@
             <dependency>
                 <groupId>com.jfinal</groupId>
                 <artifactId>jfinal</artifactId>
-                <version>2.2</version>
+                <version>4.9.11</version>
             </dependency>
             <dependency>
                 <groupId>com.timerchina</groupId>
-                <artifactId>toolkit-common</artifactId>
-                <version>1.2.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.timerchina</groupId>
-                <artifactId>toolkit-jfinal</artifactId>
-                <version>1.2.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.timerchina</groupId>
-                <artifactId>toolkit-security</artifactId>
-                <version>1.2.0-SNAPSHOT</version>
+                <artifactId>toolkit</artifactId>
+                <version>2.2.2-SNAPSHOT</version>
             </dependency>
 
             <!-- Supply For Redis -->
